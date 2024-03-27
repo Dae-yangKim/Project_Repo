@@ -1,6 +1,6 @@
-<div style="text-align:center">
-  <img src="/감염병빅데이터분석 Project.png" width = 400 height = 400>
-</div>
+<p align="center">
+  <img src="감염병빅데이터분석 Project.png" width = 400 height = 400>
+</p>
 <br>
 
 # BigData_Idea_Competition
