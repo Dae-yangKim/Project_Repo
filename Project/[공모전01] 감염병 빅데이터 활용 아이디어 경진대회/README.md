@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="감염병빅데이터분석 Project.png" width = 400 height = 400>
+  <img src="감염병빅데이터분석 Project.png" width = 500 height = 500>
 </p>
 <br>
 
