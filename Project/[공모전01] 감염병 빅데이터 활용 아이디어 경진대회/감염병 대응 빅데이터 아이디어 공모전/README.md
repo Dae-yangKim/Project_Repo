@@ -1,5 +1,9 @@
 ## 감염병 대응 빅데이터 아이디어 공모전 데이터 분석 및 모델링
 
+<div style="text-align:center">
+  <img src="/감염병빅데이터분석 Project.png" width = 400 height = 400>
+</div>
+
 ### 목차
 
 - [데이터 분석 방법론](#data_analysis)
