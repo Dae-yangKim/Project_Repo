@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="/kkh3363/K-digital project 01.png">
+    <img src="K-digital project 01.png">
 </p>
 <br>
 
@@ -41,11 +41,10 @@ _참고 뉴스_
 2023년 11월 27일 ~ 2023년 12월 22일
 
 ## <a id='result'>결과물 예시</a>
-<img src="/kkh3363/pdf_1.png" width="300">
-<img src="/kkh3363/pdf_2.png" width="300" height="170">
-<img src="/kkh3363/pdf_3.png" width="300">
-<img src="/kkh3363/pdf_4.png" width="300" height="160">
-<img src="/kkh3363/result_1.png" width="605" height="700">
+<img src="pdf_1.png" width="300"> <img src="pdf_2.png" width="300" height="170"><br>
+<img src="pdf_3.png" width="300">
+<img src="pdf_4.png" width="300" height="160">
+<img src="result_1.png" width="605" height="700">
 <br>
 <br>
 <font size="3"><b>최종 결과물로서는 , 보고서와 발표용 PDF 그리고 분석 코드 입니다.</b></font>
