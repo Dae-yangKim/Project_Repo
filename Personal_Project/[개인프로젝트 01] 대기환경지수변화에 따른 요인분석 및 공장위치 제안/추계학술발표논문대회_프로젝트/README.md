@@ -41,7 +41,7 @@ _변수 구성표_
 
 AQI를 종속변수로 구성을 할때, 주의를 한 점은 AQI 값 계산에 필요한 수치나 기준이 나라별로 다르기 때문에 데이터를 수집한 분석 대상 나라의 위치에 따라서 조사를 통해 적절한 기준을 세워서 종속변수의 계산을 진행.
 
-<strong>_인도의 AQI기준_</strong>
+<strong>_인도의 AQI기준_</strong><br>
 <img src="AQI_Index.png"><br>
 <strong>_종속변수 파일 구성_</strong><br>
 <img src="AQI_Files.png">
